@@ -2,7 +2,7 @@
  ## Hi there 👋
 
 
-*** about me *** 
+***about me*** 
 - 🔭 I’m currently study on school
 - 🌱 I’m currently learning programable
 - 🤔 I’m looking for help with javascript
