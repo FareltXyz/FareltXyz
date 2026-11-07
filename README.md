@@ -43,7 +43,7 @@ I'm Farel, a student and aspiring developer who enjoys exploring technology, bui
     <img src="https://img.shields.io/badge/GitHub-FareltXyz-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://discord.com/users/">
-    <img src="https://img.shields.io/badge/Discord-farel8975-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-fareltxyz-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
